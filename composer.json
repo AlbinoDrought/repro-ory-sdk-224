@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Sample\\ReproOrySdk\\": "src/"
+        }
+    },
+    "require": {
+        "ory/client": "v0.2.0-alpha.60"
+    }
+}
